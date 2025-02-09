@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Evanson</h1>
-<h3 align="center">I'm a passionate Full stack Web developer</h3>
+<h3 align="center">I'm a passionate Full Stack Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media4.giphy.com/media/i1JHRZSXO9LZZDHqii/giphy.gif?cid=ecf05e4761t07n0j33z168xwd0421szeifmo72ra1242xzs3&ep=v1_gifs_search&rid=giphy.gif&ct=g">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=e-vanson&label=Profile%20views&color=0e75b6&style=flat" alt="e-vanson" /> </p>
 
 <p align="left"> <a href="https://twitter.com/@denzie_don" target="blank"><img src="https://img.shields.io/twitter/follow/@denzie_don?logo=twitter&style=for-the-badge" alt="denzie_don" /></a> </p>
 
-- 🌱 I’m currently learning **Django, Laravel, Spring, React**
+- 🌱 I’m currently learning **Nest,React**
 
-- 💬 Ask me about **MERN, REST API's**
+- 💬 Ask me about **MERN, REST API's, Devops**
 
 - 📫 How to reach me **evansonkamau233@gmail.com**
 
