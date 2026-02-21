@@ -7,9 +7,9 @@
 
 <p align="left"> <a href="https://twitter.com/@denzie_don" target="blank"><img src="https://img.shields.io/twitter/follow/@denzie_don?logo=twitter&style=for-the-badge" alt="denzie_don" /></a> </p>
 
-- 🌱 I’m currently learning **Nest,React**
+- 🌱 I’m currently learning **Nest,React,Scala**
 
-- 💬 Ask me about **MERN, REST API's, Devops**
+- 💬 Ask me about **Akka, Actors, MERN, REST API's, Devops**
 
 - 📫 How to reach me **evansonkamau233@gmail.com**
 
