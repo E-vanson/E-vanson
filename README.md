@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Nest,React,Scala**
 
-- 💬 Ask me about **Akka, Actors, MERN, REST API's, Devops**
+- 💬 Ask me about **Akka-Typed, Actors, Functional Programming, MERN, REST API's, Devops**
 
 - 📫 How to reach me **evansonkamau233@gmail.com**
 
